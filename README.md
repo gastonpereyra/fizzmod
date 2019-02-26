@@ -1,3 +1,3 @@
-# Fizzmod en EdI
+# Fizzmod en EdIT
 
 Repo creado para la primera clase del Curso sobre Node en EdIT
